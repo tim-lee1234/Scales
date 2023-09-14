@@ -1,6 +1,6 @@
 void setup()
 {
-  size(2000,2000);
+  size(2000,1300);
 }
 int a=0;
 int b =0;
